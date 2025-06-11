@@ -1,4 +1,4 @@
-# Meu Portfólio
+# READ.me do Meu Portfólio
 
 Este é um site simples de portfólio pessoal com três páginas principais: **Início**, **Sobre Mim** e **Projetos**.
 
