@@ -1,0 +1,15 @@
+HTML:
+<strong> - ênfase, <b> negrito, <h1> - Tópico, <p> - parágrafo, <hr> - linha, <i> - itálico, <small> - pequeno;
+<u> - sublinhado, <del> - cortar, <br> - pular liha, <mark> - marca-texto, <abbr> - atribuir valor, <adress> - endereço;
+<cite> - obra, <q> - citação, <blockquote> - texto para dentro, <bdo> - mudar foramto do texto;
+<sup> - elevado, <sub> - inferior, <div> - divisão, <a href> - link, <img src="" width="" height="" alt="">;
+<table> - tabela, 
+
+
+
+JS:
+document.write - print, console.log - anotacao para desenvolvedor, alert() - alerta ;
+variáveis - var (pode sofrer mudanças), let (unica vez fora de escopos) e const (não muda nunca) ;
+atribuir id - document.getElementById("ID").innerHTML = ...;
+Operadores - + (soma), - (subtração), * (multiplicação), / (divisão), ++ (adicionar 1), -- (tira 1)
+Variavel Condicional - ? "X" : "Y", and - &&, or - ||
